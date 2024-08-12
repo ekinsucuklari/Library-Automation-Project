@@ -1,0 +1,16 @@
+C:\Users\LENOVO\source\repos\RememberMe\RememberMe\bin\Debug\RememberMe.exe.config
+C:\Users\LENOVO\source\repos\RememberMe\RememberMe\bin\Debug\RememberMe.exe
+C:\Users\LENOVO\source\repos\RememberMe\RememberMe\bin\Debug\RememberMe.pdb
+C:\Users\LENOVO\source\repos\RememberMe\RememberMe\obj\Debug\RememberMe.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\RememberMe\RememberMe\obj\Debug\RememberMe.Form1.resources
+C:\Users\LENOVO\source\repos\RememberMe\RememberMe\obj\Debug\RememberMe.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\RememberMe\RememberMe\obj\Debug\RememberMe.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\RememberMe\RememberMe\obj\Debug\RememberMe.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\RememberMe\RememberMe\obj\Debug\RememberMe.exe
+C:\Users\LENOVO\source\repos\RememberMe\RememberMe\obj\Debug\RememberMe.pdb
+C:\Users\LENOVO\source\repos\RememberMe\RememberMe\obj\Debug\RememberMe.Member.resources
+C:\Users\LENOVO\source\repos\RememberMe\RememberMe\obj\Debug\RememberMe.ListMem.resources
+C:\Users\LENOVO\source\repos\RememberMe\RememberMe\obj\Debug\RememberMe.Operations.resources
+C:\Users\LENOVO\source\repos\RememberMe\RememberMe\obj\Debug\RememberMe.AddBook.resources
+C:\Users\LENOVO\source\repos\RememberMe\RememberMe\obj\Debug\RememberMe.Borrow.resources
+C:\Users\LENOVO\source\repos\RememberMe\RememberMe\obj\Debug\RememberMe.UCListOfBorrowed.resources
